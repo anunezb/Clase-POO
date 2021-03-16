@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{76B1AD92-3D1D-44BC-AE6C-829CF8EC10C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjdeRepaso/Program.cs">
+    <Files>
+      <File FileName="EjdeRepaso/Program.cs" Line="19" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjdeRepaso" expanded="True">
+            <Node name="EjdeRepaso" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EjdeRepaso PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

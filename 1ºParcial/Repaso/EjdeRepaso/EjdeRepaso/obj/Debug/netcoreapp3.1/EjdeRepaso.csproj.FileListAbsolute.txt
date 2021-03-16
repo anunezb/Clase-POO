@@ -1,0 +1,4 @@
+/Users/armandonunezbautista/Documents/UP Ingeniería Industrial/2ºSemestre/Programación O. a objetos/1ºParcial/EjdeRepaso/EjdeRepaso/obj/Debug/netcoreapp3.1/EjdeRepaso.csprojAssemblyReference.cache
+/Users/armandonunezbautista/Documents/UP Ingeniería Industrial/2ºSemestre/Programación O. a objetos/1ºParcial/EjdeRepaso/EjdeRepaso/obj/Debug/netcoreapp3.1/EjdeRepaso.AssemblyInfoInputs.cache
+/Users/armandonunezbautista/Documents/UP Ingeniería Industrial/2ºSemestre/Programación O. a objetos/1ºParcial/EjdeRepaso/EjdeRepaso/obj/Debug/netcoreapp3.1/EjdeRepaso.AssemblyInfo.cs
+/Users/armandonunezbautista/Documents/UP Ingeniería Industrial/2ºSemestre/Programación O. a objetos/1ºParcial/EjdeRepaso/EjdeRepaso/obj/Debug/netcoreapp3.1/EjdeRepaso.csproj.CoreCompileInputs.cache

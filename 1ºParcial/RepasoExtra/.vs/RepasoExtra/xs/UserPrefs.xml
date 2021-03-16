@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7C0575AA-426B-4146-AB15-14D9DA303230}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepasoExtra/Program.cs">
+    <Files>
+      <File FileName="RepasoExtra/Program.cs" Line="30" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepasoExtra" expanded="True">
+            <Node name="RepasoExtra" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RepasoExtra PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
